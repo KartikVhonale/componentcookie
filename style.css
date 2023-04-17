@@ -4,7 +4,9 @@
     box-sizing: border-box;
 }
 body{
-    height: vh;
+    height: 100vh;
+    background-image: url('im.jpg');
+    background-size: 100vw;
 }
 
 .cookie{
