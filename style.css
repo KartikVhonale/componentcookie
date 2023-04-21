@@ -6,7 +6,8 @@
 body{
     height: 100vh;
     background-image: url('im.jpg');
-    background-size: 100vw;
+    background-repeat:no-repeat;
+    background-size: 100vw 100vh;
 }
 
 .cookie{
